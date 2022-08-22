@@ -1,0 +1,39 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: Outfit;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  display: block;
+  margin: 1rem auto;
+  max-width: 16.2rem;
+  border-radius: 12px;
+}
+
+.container {
+  border-radius: 12px;
+  background-color: hsl(0, 0%, 100%);
+  max-width: 18rem;
+}
+
+h1 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-align: center;
+  padding: 0 1rem;
+  color: hsl(218, 44%, 22%);
+}
+
+p {
+  font-size: 0.9rem;
+  font-weight: 400;
+  text-align: center;
+  padding: 0 1.2rem 1rem;
+  color: hsl(220, 15%, 55%);
+}
+
+
